@@ -1,1 +1,1 @@
-# nmap-python
+# simple nmap in python
